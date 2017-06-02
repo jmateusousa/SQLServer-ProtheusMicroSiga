@@ -1,0 +1,8 @@
+
+SELECT ZDW_STATUS, * FROM ZDW010
+where ZDW_STATUS <> 'i'
+and zdw_item = '01'
+
+
+DELETE FROM ZDW010
+WHERE ZDW_PEDCLI in ('29709','29719')
