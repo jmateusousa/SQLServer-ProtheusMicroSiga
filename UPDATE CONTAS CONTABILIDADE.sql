@@ -1,0 +1,53 @@
+select * from cvd010
+WHERE CVD_CONTA IN ('21401905');
+
+INSERT INTO CVD010 (CVD_FILIAL, CVD_CONTA, CVD_ENTREF, CVD_CODPLA, CVD_CTAREF, CVD_CUSTO, CVD_TPUTIL, R_E_C_N_O_, CVD_CLASSE, CVD_NATCTA, CVD_CTASUP)
+VALUES (	'',	'21401905'	,'10' ,	 '1',	'2.01.01.03.01',	 '', 	'A',	'12037'	,'1',	 '02',	 '2.01.01.03'	);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
